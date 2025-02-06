@@ -29,6 +29,10 @@ In JavaScript, methods can be defined as instance methods or static methods. Und
 Use the following code snippet and identify the instance methods and static methods. Then, explain how we might decide to make a particular method an instance method or a static method.
 
 ```js
+class Person {
+  // Implementation details are hidden
+}
+
 const gonzalo = new Person(36, "gonzalo")
 const ben = new Person(29, "ben")
 Person.getPeople();   // prints [ Person { name: "gonzalo", age: 36 }, Person { name: "ben", age: 29 } ]
