@@ -5,10 +5,10 @@ For guidance on setting up and submitting this assignment, refer to the Marcy la
 ## Prompt 1
 
 Write a short lesson to explain and demonstrate the concept of inheritance. In your response, include the following:
-* What is inheritance? Use the terms "subclass" and "superclass" somewhere in your definition.
-* Provide a code snippet that:
-  * Has two classes where one is the superclass and one is the subclass.
-  * Creates an instance of the subclass and references a property or invokes a method of the superclass.
+- What is inheritance? Use the terms "subclass" and "superclass" somewhere in your definition.
+- Provide a code snippet that:
+  - Has two classes where one is the superclass and one is the subclass.
+  - Creates an instance of the subclass and references a property or invokes a method of the superclass.
 
 ### Response 1
 
@@ -16,9 +16,9 @@ Write a short lesson to explain and demonstrate the concept of inheritance. In y
 
 In JavaScript, the prototype chain is the underlying concept that enables inheritance. Understanding how it works is crucial for writing efficient and maintainable code, especially when working with object-oriented programming (OOP). Read this MDN article on [Object Prototypes](https://developer.mozilla.org/en-US/docs/Learn_web_development/Extensions/Advanced_JavaScript_objects/Object_prototypes) and provide the following in your own words:
 
-* Provide a mental model or analogy that helps explain what a prototype is.
-* What is the Prototype Chain, and when does it stop?
-* Is it necessary to know how the prototype chain works in order to implement inheritance? Why or why not?
+- Provide a mental model or analogy that helps explain what a prototype is.
+- What is the Prototype Chain, and when does it stop?
+- Is it necessary to know how the prototype chain works in order to implement inheritance? Why or why not?
 
 ### Response 2
 
